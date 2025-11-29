@@ -1,0 +1,5 @@
+{
+  "name": "XINYU ERP",
+  "description": "Enterprise General Ledger System based on Spring Cloud microservices architecture. Features modular accounting, real-time reporting, and intelligent reconciliation.",
+  "requestFramePermissions": []
+}
